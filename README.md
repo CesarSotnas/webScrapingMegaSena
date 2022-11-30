@@ -1,2 +1,2 @@
-Código de web scraping em Python usando selenium 
-Ainda em construção
+Código de web scraping em Python usando selenium. <br>
+Ainda em construção.
